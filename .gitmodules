@@ -1,0 +1,18 @@
+[submodule "geoexplorer/externals/buildkit"]
+	path = geoexplorer/externals/buildkit
+	url = git://github.com/opengeo/buildkit.git
+[submodule "geoexplorer/app/static/externals/gxp"]
+	path = geoexplorer/app/static/externals/gxp
+	url = git://github.com/opengeo/gxp.git
+[submodule "geoexplorer/app/static/externals/geoext"]
+	path = geoexplorer/app/static/externals/geoext
+	url = git://github.com/geoext/geoext.git
+[submodule "geoexplorer/app/static/externals/openlayers"]
+	path = geoexplorer/app/static/externals/openlayers
+	url = git://github.com/openlayers/openlayers.git
+[submodule "geoexplorer/app/static/externals/printpreview"]
+	path = geoexplorer/app/static/externals/printpreview
+	url = git://github.com/opengeo/PrintPreview.git
+[submodule "geoexplorer/externals/stick"]
+	path = geoexplorer/externals/stick
+	url = https://github.com/hns/stick.git
